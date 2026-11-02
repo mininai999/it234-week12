@@ -1,5 +1,5 @@
 {
-  "shopName": "ร้านกาแฟของฉัน",
+  "shopName": "กาเเฟน้องนาย",
   "owner": "ชื่อนักศึกษา",
   "studentId": "6XXXXXXXXX",
   "ownerPhone": "081-234-5678",
@@ -8,7 +8,7 @@
       "id": 1,
       "name": "ลาเต้เย็น",
       "price": 55,
-      "emoji": "🥤",
+      "emoji": "🍼",
       "available": true,
       "tags": ["กาแฟ", "เย็น"]
     },
@@ -25,7 +25,15 @@
       "name": "ครัวซองต์",
       "price": 60,
       "emoji": "🥐",
-      "available": false,
+      "available": true,
+      "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "เค้กลาวาโอวัลตินโกโก้โอริโอ้",
+      "price": 70,
+      "emoji": "🎂",
+      "available": true,
       "tags": ["เบเกอรี่"]
     }
   ]
